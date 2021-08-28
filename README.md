@@ -35,6 +35,4 @@ Here are some ideas to get you started:
 
 #### 📖 Atualmente tenho estudado 📖:
 
-- Java EE
-- Spring MVC
-- JPA e Hibernate
+- HTML+CSS+JS
